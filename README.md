@@ -1,9 +1,14 @@
 # Simple Direction
 
-### Links
+## Java console based project and team management tool
 
-* Google Drive: https://drive.google.com/drive/folders/1l8wqbmo4cyxehe1XCrFw1OyOz7HjeC0c
+### Group Project for DIT092 Miniprojekt
 
-* Trello: https://trello.com/b/7Tya4XZQ/dit092-assignment-1-sprint-0
-
-* Excel: https://onedrive.live.com/view.aspx?resid=3FADCB5F772F640B!25673&ithint=file%2cxlsx&authkey=!AIgboHVifQq7xFE
+Contributors
+* Numan Korkmaz
+* Jens Sjödin
+* Karl Nilsson
+* Drake Axelrod
+* Axel Lindmark
+* 'Anna' Brannen
+* Vernita Gouws
